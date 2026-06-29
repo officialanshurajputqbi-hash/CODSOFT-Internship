@@ -1,7 +1,7 @@
-##🌐 Personal Portfolio Website | CODSOFT Web Development Internship
-##📌 Task 1 – Personal Portfolio
+##Personal Portfolio Website | CODSOFT Web Development Internship
+##Task 1 – Personal Portfolio
 
-#This repository contains my submission for Task 1 of the CODSOFT Web Development Internship. The project is a modern, responsive, and professional personal portfolio website designed to showcase my skills, projects, certifications, achievements, resume, and contact information.
+##This repository contains my submission for Task 1 of the CODSOFT Web Development Internship. The project is a modern, responsive, and professional personal portfolio website designed to showcase my skills, projects, certifications, achievements, resume, and contact information.
 ## ✨ Features
 
 * 🏠 Modern Home Page
